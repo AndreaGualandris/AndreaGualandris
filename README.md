@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Andrea Gualandris. I am a software developer with a degree in computer science with experience in various programming languages and technologies.
 
@@ -35,4 +35,7 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
 </a>
 </div>
 
+## 🌱 I’m currently learning
+
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=ee672f)
 
