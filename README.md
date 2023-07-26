@@ -31,7 +31,7 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaGualandris&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreaGualandris&theme=onedark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreaGualandris&theme=onedark&hide_rank=true&layout=compact" />
 </a>
 </div>
 
