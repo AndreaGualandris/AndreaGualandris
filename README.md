@@ -35,6 +35,6 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
 </div>
 
 ## 🌱 I’m currently learning
-
+![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=ee672f)
 
