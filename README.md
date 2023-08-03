@@ -7,6 +7,7 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Code-C%23-blue?logo=csharp)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=ee672f)
@@ -35,6 +36,7 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
 </div>
 
 ## 🌱 I’m currently learning
+![](https://img.shields.io/badge/.NET-Microsoft-blue?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=ee672f)
 
