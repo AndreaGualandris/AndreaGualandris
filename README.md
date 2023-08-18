@@ -22,7 +22,7 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f80c0)
 
-## :chart_with_upwards_trend: GitHub Stats
+<!-- ## :chart_with_upwards_trend: GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
@@ -31,7 +31,7 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreaGualandris&theme=onedark&hide_rank=true&layout=compact" />
 </a>
-</div>
+</div> -->
 
 ## 🌱 I’m currently learning
 ![](https://img.shields.io/badge/.NET-Microsoft-blue?style=flat&logoColor=white)
