@@ -30,10 +30,10 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaGualandris&layout=compact&langs_count=8&card_width=320&theme=onedark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreaGualandris&layout=compact&langs_count=8&card_width=320&theme=onedark&hide_border=true&bg_color=00000000" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreaGualandris&theme=onedark&hide_rank=true&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreaGualandris&theme=onedark&hide_rank=true&layout=compact&hide_border=true&bg_color=00000000" />
 </a>
 </div> 
 
