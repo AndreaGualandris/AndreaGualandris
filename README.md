@@ -14,6 +14,7 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Tools-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=0f80c0)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=git&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matrix&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=ee672f)
@@ -21,8 +22,11 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
 ![](https://img.shields.io/badge/Tools-JetBrains_Suite-informational?style=flat&logo=jetbrains&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f80c0)
+![](https://img.shields.io/badge/Microsoft-PowerBI-FFE800)
+![](https://img.shields.io/badge/Microsoft-PowerApps-C658F7)
+![](https://img.shields.io/badge/Microsoft-PowerAutomate-00B9FF)
 
-<!-- ## :chart_with_upwards_trend: GitHub Stats
+ ## :chart_with_upwards_trend: GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
@@ -31,10 +35,11 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreaGualandris&theme=onedark&hide_rank=true&layout=compact" />
 </a>
-</div> -->
+</div> 
 
 ## 🌱 I’m currently learning
-![](https://img.shields.io/badge/.NET-Microsoft-blue?style=flat&logoColor=white)
-![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=ee672f)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Business_Central-AL-blue)
+![](https://img.shields.io/badge/Apple-Business_Manager-84F59C)
+![](https://img.shields.io/badge/Microsoft-Intune-27B8F7)
+
 
