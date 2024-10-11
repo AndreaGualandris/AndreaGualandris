@@ -26,6 +26,7 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
 ![](https://img.shields.io/badge/Microsoft-PowerApps-C658F7)
 ![](https://img.shields.io/badge/Microsoft-PowerAutomate-00B9FF)
 
+
  ## :chart_with_upwards_trend: GitHub Stats
 
 <div align="center">
@@ -39,7 +40,7 @@ My name is Andrea Gualandris. I am a software developer with a degree in compute
 
 ## 🌱 I’m currently learning
 ![](https://img.shields.io/badge/Business_Central-AL-blue)
-![](https://img.shields.io/badge/Apple-Business_Manager-84F59C)
 ![](https://img.shields.io/badge/Microsoft-Intune-27B8F7)
+![](https://img.shields.io/badge/Apple-Business_Manager-84F59C)
 
 
